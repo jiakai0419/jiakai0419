@@ -1,2 +1,1 @@
-- 👋 Hi, I’m Kai
-- 📫 jiakai0419@gmail.com
+Hi, I’m Kai
